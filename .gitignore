@@ -1,0 +1,16 @@
+# Compiled Java class files
+out/
+*.class
+
+# Runtime-generated data files (re-created on first launch)
+data/
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# OS artifacts
+.DS_Store
+Thumbs.db
